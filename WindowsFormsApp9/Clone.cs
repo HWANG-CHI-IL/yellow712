@@ -45,7 +45,7 @@ namespace WindowsFormsApp9
 
         }
         /// <summary>
-        /// 소멸자
+        /// 소멸자-
         /// </summary>
         ~Clone()
         {
