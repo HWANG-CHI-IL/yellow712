@@ -10,7 +10,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 namespace WindowsFormsApp9
 {
     /// <summary>
-    /// 직렬화 커밋 테스트 -1차ㅇㅇ
+    /// 직렬화 커밋 테스트 -1차ㅇㅇ - 테스트 완료
     /// </summary>
     [Serializable]
     class Clone : IDisposable
