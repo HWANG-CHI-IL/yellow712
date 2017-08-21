@@ -9,6 +9,9 @@ using System.Runtime.Serialization.Formatters.Binary;
 
 namespace WindowsFormsApp9
 {
+    /// <summary>
+    /// 직렬화
+    /// </summary>
     [Serializable]
     class Clone : IDisposable
     {
