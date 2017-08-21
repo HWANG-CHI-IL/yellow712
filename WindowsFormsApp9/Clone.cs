@@ -44,9 +44,7 @@ namespace WindowsFormsApp9
 
 
         }
-        /// <summary>
-        /// 소멸자-
-        /// </summary>
+
         ~Clone()
         {
             MessageBox.Show(" Aaargh ! You got me!~", "clone # " + Id + "says ...");
